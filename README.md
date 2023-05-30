@@ -19,6 +19,10 @@ The Blockchain Consciousness NFT project is an open-source initiative, and we we
 2. Make your changes
 3. Submit a pull request
 
+## References and Materials
+- ✍ Project Documentation [Link](https://docs.google.com/document/d/1jkAVRJDJIlb3wUShINhs0awGd6QKvK2UDGJCwJpK2y8/edit?usp=drivesdk)
+- ⚡ Link to Smart Contracts [Link](https://github.com/joeephwild/blockchain-backend)
+
 ## Contact
 
 If you have any questions or feedback about the project, please feel free to contact us at blockchainconsciousness@gmail.com. We would love to hear from you, and are always looking for ways to improve the project and better serve our community.
